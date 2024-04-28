@@ -1,4 +1,4 @@
-###  안뇽 👋
+###  안녕 👋
 
 <a href="https://instagram.com/ba._.pul">
     <img 
